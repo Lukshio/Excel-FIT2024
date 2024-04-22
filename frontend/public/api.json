@@ -1,0 +1,12 @@
+[
+  {
+    "url": "http://10.0.0.11",
+    "name": "test",
+    "visibleName": "Chalupa krhov"
+  },
+  {
+    "url": "http://10.0.0.11:8000/api",
+    "name": "Funkci",
+    "visibleName": "Chalupa krahulci"
+  }
+]
